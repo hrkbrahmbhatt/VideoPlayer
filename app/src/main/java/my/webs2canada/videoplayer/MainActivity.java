@@ -21,8 +21,9 @@ public class MainActivity extends AppCompatActivity {
     private ProgressDialog progressDialog;
     private MediaController mediaControls;
 
-   String Videos_URL = "https://archive.org/download/ksnn_compilation_master_the_internet/ksnn_compilation_master_the_internet_512kb.mp4";
+   //String Videos_URL = "https://archive.org/download/ksnn_compilation_master_the_internet/ksnn_compilation_master_the_internet_512kb.mp4";
 
+    String Videos_URL = "http://www.paytrail.ca/video/my.mp4";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
